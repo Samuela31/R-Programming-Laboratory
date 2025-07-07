@@ -1,0 +1,6 @@
+{
+"Empno": ["1","2","3"],
+"Name":["Arjun","Priya","Rahul"],
+"Dept":["Sales","Marketing","HR"],
+"Salary":["10000","5000","20000"]
+}
